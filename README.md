@@ -44,6 +44,7 @@ HTML,CSS,JS
 
 - [Live Demo Link](Coming Soon)
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -70,18 +71,23 @@ git clone: https://github.com/Ashnaali3255/To-Do-List.git
 
 
 3. Install
+
 4. Usage
+
 
 5. Run tests
  
  To run tests, run the following command:
+
  1. For styles: npx stylelint "**/*.{css,scss}"
  2. For Javascript: npx eslint .
+
 
 6. Deployment
  
  You can deploy this project using:
  "Github Pages"
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -103,10 +109,9 @@ git clone: https://github.com/Ashnaali3255/To-Do-List.git
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Github Flow Execution]**
+
 - [ ] **[Add-remove-branch]**
 - [ ] **[Interactive-list-branch]**
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
