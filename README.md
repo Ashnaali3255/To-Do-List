@@ -42,7 +42,8 @@ HTML,CSS,JS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](Coming Soon😉)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,19 +72,22 @@ git clone: https://github.com/Ashnaali3255/To-Do-List.git
 
 3. Install
 
-Install this project with:
-
 4. Usage
- 
- To run the project, execute the following command:
+
 
 5. Run tests
  
  To run tests, run the following command:
 
+ 1. For styles: npx stylelint "**/*.{css,scss}"
+ 2. For Javascript: npx eslint .
+
+
 6. Deployment
  
  You can deploy this project using:
+ "Github Pages"
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -105,9 +109,9 @@ Install this project with:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Github Flow Execution]**
-- [ ] **[Implementation on Mobile Version]**
-- [ ] **[Implementation on Desktop]**
 
+- [ ] **[Add-remove-branch]**
+- [ ] **[Interactive-list-branch]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
