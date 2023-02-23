@@ -3,7 +3,7 @@ import './style.css';
 
 const listArray = [
   {
-    description: 'Workout at 6am',
+    description: 'Workout at 11am',
     completed: true,
     index: 1,
   },
@@ -13,7 +13,7 @@ const listArray = [
     index: 2,
   },
   {
-    description: 'Clean the house',
+    description: 'Revision of Work',
     completed: true,
     index: 3,
   },
