@@ -42,7 +42,7 @@ HTML,CSS,JS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://ashnaali3255.github.io/To-Do-List/)
+- [Live Demo Link](http://127.0.0.1:5500/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
