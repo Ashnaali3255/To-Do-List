@@ -11,7 +11,7 @@ window.addEventListener('load', () => {
   displayList();
 });
 
-form.addEventListener('submit', (event) => {
+form.addEventListener('click', (event) => {
   event.preventDefault();
   addList(todoTask.value, false, localGet().length + 1);
   displayList();
