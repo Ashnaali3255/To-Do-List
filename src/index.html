@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-  <!DOCTYPE html>
   <html lang="en">
   <head>
       <meta charset="UTF-8">
@@ -19,18 +17,16 @@
           <i class="fa-sharp fa-solid fa-arrows-rotate"></i>
         </div>
 
-        <div class="add-list">
-          <input type="text" name="add-lists" id="input" placeholder="Add to your list...">
-          <button class="add-btn">Add</button>
-        </div><hr>
+        <form class="add-list" action="submit">
+          <input type="text" name="add-lists" id="input" class="input" placeholder="Add to your list..." required>
+          <button type="submit" class="add-btn">Add</button>
+        </form><hr>
 
-        <div class="items"></div>
-        <div class="ul-lists"></div>
+        <div id="listItem"></div>
         <div class="complete-cont">
-          <button class="complete-btn">Clear
-            all completed</button>
+          <button class="complete-btn" type="submit">Clear all completed</button>
         </div>
-
+        
       </div>
     </section>
   </body>
