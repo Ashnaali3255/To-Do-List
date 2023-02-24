@@ -58,13 +58,14 @@ window.updateList = (id) => {
   const updateArray = localGet().map((item) => {
     if (item.index - 1 === id) {
       item.description = updateInput;
+
+      if (item.completed === true) {
+        item.completed = false;
+      } else {
+        item.completed = true;
+      }
     }
-    if (item.index - 1 === id) {
-      item.completed = true;
-    }
-    if (item.index - 1 === !id) {
-      item.completed = true;
-    }
+
     return item;
   });
 
